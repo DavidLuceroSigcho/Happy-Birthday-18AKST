@@ -9,7 +9,7 @@ body {
 	overflow-x:hidden;
 }
 .container {
-	display: flex;
+	display: none;
 }
 .container-img 
 {
