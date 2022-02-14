@@ -11,6 +11,10 @@ body {
 .container {
 	display: none;
 }
+.space-img 
+{
+	justify-content: space-between;
+}
 .peach {
 	background-color: #FFDAB9;
 	
