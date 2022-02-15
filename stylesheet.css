@@ -1284,15 +1284,6 @@ audio {
 	display: none;
 	font-weight: bold;
 }
-
-#AKST 
-{
-	position: "left";
-}
-#AKST2 
-{
-	position: "rigt";
-}
 .btn-primary {
         border-color: #466baf;
         padding: 10px;
